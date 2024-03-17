@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
+        <span className="font-medium">Data Science from UW-Madison.</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
@@ -28,12 +28,11 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Python, R, SQL, Tableau for Data Analysis and sklearn, Tensorflow, PyTorch for Machine Learning.
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
+        . I am also familiar with data engineering tools such Apache Spark, Snowflake, Apache Kafka, Mage AI . I am always looking to
         learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        <span className="font-medium">full-time position</span> as a data analyst or a data engineer or as an junior data scientist.
       </p>
 
       <p>
